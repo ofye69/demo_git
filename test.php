@@ -15,6 +15,7 @@ and open the template in the editor.
         
         <p>
             Cette page contient du code HTML avec des balises PHP.<br />
+            Ceci est une modification ...<br/>
             <?php
             $a = array('k1' => 'v1', 'k2' => 'v2', 'k3' => 'v3', 'k4' => array('k41' => 'v41', 'k42' => 'v42'));
 
